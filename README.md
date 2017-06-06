@@ -1,7 +1,7 @@
 Developer Guidelines
 ====================================
-[push rules](#Rules)  
-[to do list](#Checklist)
+[push rules](#rules)  
+[to do list](#checklist)
 
 Rules
 -----------------------
