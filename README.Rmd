@@ -42,12 +42,12 @@ user interface which has access to files and shortcuts all the same.
 
 ## Table of contents
 &nbsp;  
-[Changelog](#Change-log)  
-[In Development](#In-Development)  
-[Known Issues](#Known-Issues)  
-[Patch Notes](#Patch-Notes)  
+[Changelog](#change-log)  
+[In Development](#in-development)  
+[Known Issues](#known-issues)  
+[Patch Notes](#patch-notes)  
 Previous Patches - not available at this time :sob:  
-[Version notes](#Version)  
+[Version notes](#version)  
 &nbsp;
 
 ___
@@ -74,7 +74,7 @@ Summary: Nothing has happened yet
 
 &nbsp;
 
-[back to top](#Cleaner-Desktop) | [table of contents](#Table-of-Contents)
+[back to top](#cleaner-desktop) | [table of contents](#table-of-contents)
 ---|---
 ___
 
@@ -99,7 +99,7 @@ There is no obligation to update this section, but we do like the hype.
 
 &nbsp;
 
-[back to top](#Cleaner-Desktop) | [table of contents](#Table-of-Contents)
+[back to top](#cleaner-desktop) | [table of contents](#table-of-contents)
 ---|---
 ___
 
@@ -126,7 +126,7 @@ or do not know how to fix at the given time.
 
 &nbsp;
 
-[back to top](#Cleaner-Desktop) | [table of contents](#Table-of-Contents)
+[back to top](#cleaner-desktop) | [table of contents](#table-of-contents)
 ---|---
 ___
 
@@ -154,7 +154,7 @@ Previous Patches - not available at this time :sob: <!-- link update log branch 
 
 &nbsp;
 
-[back to top](#Cleaner-Desktop) | [table of contents](#Table-of-Contents)
+[back to top](#cleaner-desktop) | [table of contents](#table-of-contents)
 ---|---
 ___
 
@@ -181,5 +181,5 @@ Nothing here yet; waiting for the first version to be born :eyes:
 
 &nbsp;
 
-[back to top](#Cleaner-Desktop) | [table of contents](#Table-of-Contents)
+[back to top](#cleaner-desktop) | [table of contents](#table-of-contents)
 ---|---
